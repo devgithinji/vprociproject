@@ -12,3 +12,5 @@
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 R
 "userdata/sonar-analysis-properties,2/8/28c4244dac854f9025d9f333cddab3d9916cb7d8
+I
+aws-files/ssh_config_file,e/2/e27e20e80add8eed545f6b6316ab0c8fb57a8f36
