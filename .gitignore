@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Compiled Java binaries
+target/
+
+# Compiled Kotlin binaries
+out/
+
+# Temporary files
+*.iml
+*.ipr
+*.iws
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Gradle files
+.gradle/
+
+# User-specific files
+*.iml
+.idea/
+*.iws
+*.iws.iml
+*.ipr
+*.iws.ipr
+*.ids
+
+# Thumbnails directory
+.idea/thumbnails/
+
+
